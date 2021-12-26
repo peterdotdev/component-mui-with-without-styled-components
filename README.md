@@ -5,7 +5,7 @@ I've just wanted to feel a grasp of what would better for me under different sce
 I liked both ways but most of the time I feel I'd use one or the other, so not to add
 somekind of unnecesary extra-complexity.
 
-This are some links that pushed me to try this out:
+These are some links that pushed me to try this out:
 - https://levelup.gitconnected.com/material-ui-styled-components-fff4d345fb07
 - https://www.sipios.com/blog-tech/how-to-use-styled-components-with-material-ui-in-a-react-app
 - https://medium.com/building-crowdriff/styled-components-to-use-or-not-to-use-a6bb4a7ffc21
