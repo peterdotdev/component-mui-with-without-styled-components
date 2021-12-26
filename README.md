@@ -2,7 +2,7 @@
 
 I've just wanted to feel a grasp of what would better for me under different scenarios.
 
-I liked both ways but most of the time I feel I'd use one or the other, so not to add
+I liked both ways but most of the time I feel I'd use one or the other so not to add
 somekind of unnecesary extra-complexity.
 
 These are some links that pushed me to try this out:
