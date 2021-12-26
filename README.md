@@ -1,6 +1,6 @@
 # Trying out making a component with MUI and with/without styled components
 
-I've just wanted to feel a grasp of what would better for me under different scenarios.
+I've just wanted to feel a grasp of what would work better for me under different scenarios.
 
 I liked both ways but most of the time I feel I'd use one or the other so not to add
 somekind of unnecesary extra-complexity.
